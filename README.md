@@ -80,7 +80,9 @@ L'image de base `python:3.9` (Debian complet) embarque des paquets système vuln
 > Les scans sont configurés en mode **non bloquant** (`exit-code: 0`) pour permettre la livraison continue tout en documentant les risques.
  
 ---
-![Sreenshot](image.png)
+## Captures de résultats
+
+![Pipeline GitHub Actions](image.png)
 
 
 ## Analyse de risques
