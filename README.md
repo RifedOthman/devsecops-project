@@ -78,8 +78,10 @@ L'image de base `python:3.9` (Debian complet) embarque des paquets système vuln
 | libcurl | CVE-2023-38545 | MEDIUM |
 
 > Les scans sont configurés en mode **non bloquant** (`exit-code: 0`) pour permettre la livraison continue tout en documentant les risques.
-
+ 
 ---
+![Sreenshot](image.png)
+
 
 ## Analyse de risques
 
